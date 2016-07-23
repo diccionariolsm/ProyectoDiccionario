@@ -7,6 +7,7 @@
   		<?php if(isset($navbar)) echo $navbar; ?>
   		<div class="container">
 	  		<?php if(isset($header)) echo $header; ?>
+	  		<?php if(isset($menu)) echo $menu; ?>
 	  		<?php if(isset($content)) echo $content; ?>
 	  		<?php if(isset($footer)) echo $footer; ?>
   		</div>
