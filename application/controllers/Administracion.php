@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Administracion extends DSLM_Controller{
 	
-	
+	/*controlador de la vista del robot , solo se manda a llamar la vista*/
 	public function __construct(){
 		parent::__construct();
 	}
@@ -13,7 +13,7 @@ class Administracion extends DSLM_Controller{
 			'head' => $this->load->view('system/head',NULL,TRUE),
 			'header' => '',
 			'navbar' => $this->load->view('system/navbar',NULL,TRUE),
-			'content' => $this->load->view('administracion/panel',NULL,TRUE),
+			'content' => $this->load->view('administracion/robot',NULL,TRUE),
 			'footer' => $this->load->view('system/footer',NULL,TRUE)
 		);
 		$this->load->view('system/layout',$data);
