@@ -638,3 +638,96 @@ INFO - 2016-07-23 18:14:49 --> File loaded: C:\xampp\htdocs\lsmdiccionario\appli
 INFO - 2016-07-23 18:14:49 --> File loaded: C:\xampp\htdocs\lsmdiccionario\application\views\system/layout.php
 INFO - 2016-07-23 18:14:49 --> Final output sent to browser
 DEBUG - 2016-07-23 18:14:49 --> Total execution time: 0.9197
+INFO - 2016-07-23 19:20:32 --> Config Class Initialized
+INFO - 2016-07-23 19:20:32 --> Hooks Class Initialized
+DEBUG - 2016-07-23 19:20:32 --> UTF-8 Support Enabled
+INFO - 2016-07-23 19:20:32 --> Utf8 Class Initialized
+INFO - 2016-07-23 19:20:32 --> URI Class Initialized
+DEBUG - 2016-07-23 19:20:32 --> No URI present. Default controller set.
+INFO - 2016-07-23 19:20:33 --> Router Class Initialized
+INFO - 2016-07-23 19:20:33 --> Output Class Initialized
+INFO - 2016-07-23 19:20:33 --> Security Class Initialized
+DEBUG - 2016-07-23 19:20:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 19:20:33 --> Input Class Initialized
+INFO - 2016-07-23 19:20:33 --> Language Class Initialized
+INFO - 2016-07-23 19:20:33 --> Loader Class Initialized
+INFO - 2016-07-23 19:20:33 --> Controller Class Initialized
+DEBUG - 2016-07-23 19:20:33 --> Config file loaded: C:\xampp\htdocs\ProyectoDiccionario\application\config/diccionario.php
+INFO - 2016-07-23 19:20:33 --> Helper loaded: form_helper
+INFO - 2016-07-23 19:20:33 --> Form Validation Class Initialized
+INFO - 2016-07-23 19:20:33 --> Helper loaded: url_helper
+INFO - 2016-07-23 19:20:33 --> Helper loaded: file_helper
+INFO - 2016-07-23 19:20:34 --> Helper loaded: security_helper
+INFO - 2016-07-23 19:20:34 --> Database Driver Class Initialized
+INFO - 2016-07-23 19:20:34 --> Database Utility Class Initialized
+ERROR - 2016-07-23 19:20:34 --> Language file contains no data: language/spanish/diccionario_message_lang.php
+INFO - 2016-07-23 19:20:34 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/head.php
+INFO - 2016-07-23 19:20:34 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/navbar.php
+INFO - 2016-07-23 19:20:34 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\home/content.php
+INFO - 2016-07-23 19:20:34 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/footer.php
+INFO - 2016-07-23 19:20:34 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/layout.php
+INFO - 2016-07-23 19:20:34 --> Final output sent to browser
+DEBUG - 2016-07-23 19:20:34 --> Total execution time: 2.5988
+INFO - 2016-07-23 19:25:07 --> Config Class Initialized
+INFO - 2016-07-23 19:25:07 --> Hooks Class Initialized
+DEBUG - 2016-07-23 19:25:07 --> UTF-8 Support Enabled
+INFO - 2016-07-23 19:25:07 --> Utf8 Class Initialized
+INFO - 2016-07-23 19:25:07 --> URI Class Initialized
+INFO - 2016-07-23 19:25:07 --> Router Class Initialized
+INFO - 2016-07-23 19:25:07 --> Output Class Initialized
+INFO - 2016-07-23 19:25:07 --> Security Class Initialized
+DEBUG - 2016-07-23 19:25:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 19:25:07 --> Input Class Initialized
+INFO - 2016-07-23 19:25:07 --> Language Class Initialized
+INFO - 2016-07-23 19:25:07 --> Loader Class Initialized
+INFO - 2016-07-23 19:25:07 --> Controller Class Initialized
+INFO - 2016-07-23 19:25:07 --> Final output sent to browser
+DEBUG - 2016-07-23 19:25:07 --> Total execution time: 0.2054
+INFO - 2016-07-23 19:25:37 --> Config Class Initialized
+INFO - 2016-07-23 19:25:37 --> Hooks Class Initialized
+DEBUG - 2016-07-23 19:25:37 --> UTF-8 Support Enabled
+INFO - 2016-07-23 19:25:37 --> Utf8 Class Initialized
+INFO - 2016-07-23 19:25:37 --> URI Class Initialized
+INFO - 2016-07-23 19:25:37 --> Router Class Initialized
+INFO - 2016-07-23 19:25:37 --> Output Class Initialized
+INFO - 2016-07-23 19:25:37 --> Security Class Initialized
+DEBUG - 2016-07-23 19:25:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 19:25:37 --> Input Class Initialized
+INFO - 2016-07-23 19:25:37 --> Language Class Initialized
+INFO - 2016-07-23 19:25:37 --> Loader Class Initialized
+INFO - 2016-07-23 19:25:37 --> Controller Class Initialized
+INFO - 2016-07-23 19:25:37 --> Final output sent to browser
+DEBUG - 2016-07-23 19:25:37 --> Total execution time: 0.2038
+INFO - 2016-07-23 19:26:01 --> Config Class Initialized
+INFO - 2016-07-23 19:26:01 --> Hooks Class Initialized
+DEBUG - 2016-07-23 19:26:01 --> UTF-8 Support Enabled
+INFO - 2016-07-23 19:26:01 --> Utf8 Class Initialized
+INFO - 2016-07-23 19:26:01 --> URI Class Initialized
+INFO - 2016-07-23 19:26:01 --> Router Class Initialized
+INFO - 2016-07-23 19:26:01 --> Output Class Initialized
+INFO - 2016-07-23 19:26:01 --> Security Class Initialized
+DEBUG - 2016-07-23 19:26:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 19:26:01 --> Input Class Initialized
+INFO - 2016-07-23 19:26:01 --> Language Class Initialized
+INFO - 2016-07-23 19:26:01 --> Loader Class Initialized
+INFO - 2016-07-23 19:26:01 --> Controller Class Initialized
+INFO - 2016-07-23 19:26:01 --> Database Driver Class Initialized
+INFO - 2016-07-23 19:26:01 --> Helper loaded: url_helper
+INFO - 2016-07-23 19:26:02 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/layout_diccionario.php
+INFO - 2016-07-23 19:26:02 --> Final output sent to browser
+DEBUG - 2016-07-23 19:26:02 --> Total execution time: 0.3371
+INFO - 2016-07-23 19:26:02 --> Config Class Initialized
+INFO - 2016-07-23 19:26:02 --> Hooks Class Initialized
+DEBUG - 2016-07-23 19:26:02 --> UTF-8 Support Enabled
+INFO - 2016-07-23 19:26:02 --> Utf8 Class Initialized
+INFO - 2016-07-23 19:26:02 --> URI Class Initialized
+INFO - 2016-07-23 19:26:02 --> Router Class Initialized
+INFO - 2016-07-23 19:26:02 --> Output Class Initialized
+INFO - 2016-07-23 19:26:02 --> Security Class Initialized
+DEBUG - 2016-07-23 19:26:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 19:26:02 --> Input Class Initialized
+INFO - 2016-07-23 19:26:02 --> Language Class Initialized
+INFO - 2016-07-23 19:26:02 --> Loader Class Initialized
+INFO - 2016-07-23 19:26:02 --> Controller Class Initialized
+INFO - 2016-07-23 19:26:02 --> Final output sent to browser
+DEBUG - 2016-07-23 19:26:02 --> Total execution time: 0.2310
