@@ -34,4 +34,61 @@ class User extends CI_Model{
 		
 	}
 	
+	/**
+	 * set_user($user)
+	 * 
+	 * Este método es para agregar un usuario al catálogo de usuarios
+	 * 
+	 * @param array()	Arreglo con llos datos del usuario
+	 * 					'username'    Cadena nombre de usuario
+	 * 					'password' 	  Cadena MD5 del password
+	 * 					'mail'		  Cadena con el mail del usuario
+	 * 
+	 * @return	boolean  Regresa TRUE si inserto correctamente
+	 * 					 FALSE si no lo inserto
+	 */
+	 public function set_user($user){
+	 	if($this->db->insert('user',$user)){
+	 		return TRUE;
+	 	}else{
+	 		return FALSE;
+	 	}
+	 }
+	 
+	 public function delete_user($iduser){
+	 	$this->db->where('iduser',$iduser);
+	 	$this->db->delete('user');
+	}
+
+	public function info_user($iduser){
+		$this->db->where('iduser',$iduser);
+		$query = $this->db->get('user');
+		if($query->num_rows()>0){
+			return $query;
+		}else
+			return FALSE;
+	}
+
+	public function edit_user($iduser,$info_user){
+		$this->db->where('iduser',$iduser);
+		$this->db->update('user',$info_user);
+
+	}
+
+	 /*
+	  * get_users()
+	  * 
+	  * Este método regresa un lista de todos los usuarios registrados en el catálogo user
+	  * 
+	  * @return  array    Arreglo 
+	  */
+	  public function get_users(){
+	  	$this->db->select('*');
+		$this->db->from('user');
+		$query = $this->db->get();
+		$result = $query->result_array();
+		return $result;
+	  }
+
+	
 }
