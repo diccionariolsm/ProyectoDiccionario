@@ -22,7 +22,7 @@ class User extends CI_Model{
 	public function is_register($user){
 		extract($user);
 		$this->db->select('*');
-		$this->db->from('user');
+		$this->db->from('diccionario');
 		$this->db->where('username', $username);
 		$this->db->where('password', $password);
 		$query = $this->db->get();
