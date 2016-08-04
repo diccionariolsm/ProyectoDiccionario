@@ -47,12 +47,16 @@ class User extends CI_Model{
 	 * @return	boolean  Regresa TRUE si inserto correctamente
 	 * 					 FALSE si no lo inserto
 	 */
-	 public function set_user($user){
+	 /*public function set_user($user){
 	 	if($this->db->insert('user',$user)){
 	 		return TRUE;
 	 	}else{
 	 		return FALSE;
 	 	}
+	 }*/
+
+	 public function insert_user($info_guardar){
+	 	$this->db->insert('user',$info_guardar);
 	 }
 	 
 	 public function delete_user($iduser){

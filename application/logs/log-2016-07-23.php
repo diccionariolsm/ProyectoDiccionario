@@ -1186,3 +1186,35 @@ INFO - 2016-07-23 21:12:33 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\
 INFO - 2016-07-23 21:12:33 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/layout.php
 INFO - 2016-07-23 21:12:33 --> Final output sent to browser
 DEBUG - 2016-07-23 21:12:33 --> Total execution time: 0.5520
+INFO - 2016-07-23 21:25:29 --> Config Class Initialized
+INFO - 2016-07-23 21:25:29 --> Hooks Class Initialized
+DEBUG - 2016-07-23 21:25:29 --> UTF-8 Support Enabled
+INFO - 2016-07-23 21:25:30 --> Utf8 Class Initialized
+INFO - 2016-07-23 21:25:30 --> URI Class Initialized
+INFO - 2016-07-23 21:25:30 --> Router Class Initialized
+INFO - 2016-07-23 21:25:30 --> Output Class Initialized
+INFO - 2016-07-23 21:25:30 --> Security Class Initialized
+DEBUG - 2016-07-23 21:25:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 21:25:30 --> Input Class Initialized
+INFO - 2016-07-23 21:25:30 --> Language Class Initialized
+INFO - 2016-07-23 21:25:30 --> Loader Class Initialized
+INFO - 2016-07-23 21:25:30 --> Controller Class Initialized
+DEBUG - 2016-07-23 21:25:30 --> Config file loaded: C:\xampp\htdocs\ProyectoDiccionario\application\config/diccionario.php
+INFO - 2016-07-23 21:25:30 --> Helper loaded: form_helper
+INFO - 2016-07-23 21:25:30 --> Form Validation Class Initialized
+INFO - 2016-07-23 21:25:30 --> Helper loaded: url_helper
+INFO - 2016-07-23 21:25:30 --> Helper loaded: file_helper
+INFO - 2016-07-23 21:25:30 --> Helper loaded: security_helper
+INFO - 2016-07-23 21:25:30 --> Database Driver Class Initialized
+INFO - 2016-07-23 21:25:30 --> Database Utility Class Initialized
+ERROR - 2016-07-23 21:25:30 --> Language file contains no data: language/spanish/diccionario_message_lang.php
+INFO - 2016-07-23 21:25:30 --> Model Class Initialized
+INFO - 2016-07-23 21:25:30 --> Model Class Initialized
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/head.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/navbar.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/menu_lateral.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\user/t_users.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/footer.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/layout.php
+INFO - 2016-07-23 21:25:30 --> Final output sent to browser
+DEBUG - 2016-07-23 21:25:30 --> Total execution time: 0.5080
