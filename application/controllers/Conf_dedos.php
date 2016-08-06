@@ -26,7 +26,7 @@ class Conf_dedos extends CI_Controller {
 	public function index(){
 		//Se seleccionan configuraciones dependiendko del numero de dodos
 
-		$sql=$this->db->query("SELECT * FROM cfg_manual WHERE no_dedos='1'");
+		$sql=$this->db->query("SELECT * FROM cnf_manual WHERE no_dedos='1'");
 		$res = $sql->result_array();
 		$data_dedos = array('name_image' => $res );/*array( 'image' =>array('name' => 'sena1.jpe',
 																	'id' => '1'),

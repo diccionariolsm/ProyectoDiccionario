@@ -7,10 +7,10 @@
       </div>
 
    <div class="panel-body">
-    <?php if(isset($message)):?>
+   <!-- <?php if(isset($message)):?>
         <p><?php echo $message; ?></p>
     <?php endif; ?>
-    
+    -->
   <form method='post' action='<?php echo base_url();?>index.php/add'>
 
     <div class="form-group <?php if(form_error('username') != '') echo 'has-error';?>">
