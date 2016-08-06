@@ -26,7 +26,7 @@ class Conf_dedos extends CI_Controller {
 	public function index(){
 		//Se seleccionan configuraciones dependiendko del numero de dodos
 
-		$sql=$this->db->query("SELECT * FROM cfg_manual WHERE no_dedos='1'");
+		$sql=$this->db->query("SELECT * FROM cnf_manual WHERE dedos='3'");
 		$res = $sql->result_array();
 		$data_dedos = array('name_image' => $res );/*array( 'image' =>array('name' => 'sena1.jpe',
 																	'id' => '1'),
@@ -48,10 +48,10 @@ class Conf_dedos extends CI_Controller {
 		
 
 
-		$data_dedos = array('name_image' => array( 'image' =>array('name' => 'sena1.jpe',
-																	'id' => '1'),
-													'image1' =>array('name' => 'sena1.jpe',
-																	'id' => '2')) );
+		$data_dedos = array('name_image' => array( 'image' =>array('path' => 'sena1.jpe',
+																	'idcnf_manual' => '1'),
+													'image1' =>array('path' => 'sena1.jpe',
+																	'idcnf_manual' => '2')) );
 		$data = array(
 			'head' => $this->load->view('system/head',NULL,TRUE),
 			'header' => '',
