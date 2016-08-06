@@ -58,4 +58,9 @@ $route['instalador'] = 'instalador/form';
 $route['ctrl_access'] = 'login/validate';
 $route['dashboard'] = 'administracion';
 
+$route['add'] = 'adduser/insert_u';
+//$route['addvideo'] = 'addvideo/validate';
+
+
+
 

@@ -1,5 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 
+<<<<<<< HEAD
 INFO - 2016-07-23 20:10:46 --> Config Class Initialized
 INFO - 2016-07-23 20:10:46 --> Hooks Class Initialized
 DEBUG - 2016-07-23 20:10:46 --> UTF-8 Support Enabled
@@ -1186,3 +1187,67 @@ INFO - 2016-07-23 21:12:33 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\
 INFO - 2016-07-23 21:12:33 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/layout.php
 INFO - 2016-07-23 21:12:33 --> Final output sent to browser
 DEBUG - 2016-07-23 21:12:33 --> Total execution time: 0.5520
+INFO - 2016-07-23 21:25:29 --> Config Class Initialized
+INFO - 2016-07-23 21:25:29 --> Hooks Class Initialized
+DEBUG - 2016-07-23 21:25:29 --> UTF-8 Support Enabled
+INFO - 2016-07-23 21:25:30 --> Utf8 Class Initialized
+INFO - 2016-07-23 21:25:30 --> URI Class Initialized
+INFO - 2016-07-23 21:25:30 --> Router Class Initialized
+INFO - 2016-07-23 21:25:30 --> Output Class Initialized
+INFO - 2016-07-23 21:25:30 --> Security Class Initialized
+DEBUG - 2016-07-23 21:25:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 21:25:30 --> Input Class Initialized
+INFO - 2016-07-23 21:25:30 --> Language Class Initialized
+INFO - 2016-07-23 21:25:30 --> Loader Class Initialized
+INFO - 2016-07-23 21:25:30 --> Controller Class Initialized
+DEBUG - 2016-07-23 21:25:30 --> Config file loaded: C:\xampp\htdocs\ProyectoDiccionario\application\config/diccionario.php
+INFO - 2016-07-23 21:25:30 --> Helper loaded: form_helper
+INFO - 2016-07-23 21:25:30 --> Form Validation Class Initialized
+INFO - 2016-07-23 21:25:30 --> Helper loaded: url_helper
+INFO - 2016-07-23 21:25:30 --> Helper loaded: file_helper
+INFO - 2016-07-23 21:25:30 --> Helper loaded: security_helper
+INFO - 2016-07-23 21:25:30 --> Database Driver Class Initialized
+INFO - 2016-07-23 21:25:30 --> Database Utility Class Initialized
+ERROR - 2016-07-23 21:25:30 --> Language file contains no data: language/spanish/diccionario_message_lang.php
+INFO - 2016-07-23 21:25:30 --> Model Class Initialized
+INFO - 2016-07-23 21:25:30 --> Model Class Initialized
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/head.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/navbar.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/menu_lateral.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\user/t_users.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/footer.php
+INFO - 2016-07-23 21:25:30 --> File loaded: C:\xampp\htdocs\ProyectoDiccionario\application\views\system/layout.php
+INFO - 2016-07-23 21:25:30 --> Final output sent to browser
+DEBUG - 2016-07-23 21:25:30 --> Total execution time: 0.5080
+=======
+INFO - 2016-07-23 21:15:05 --> Config Class Initialized
+INFO - 2016-07-23 21:15:05 --> Hooks Class Initialized
+DEBUG - 2016-07-23 21:15:05 --> UTF-8 Support Enabled
+INFO - 2016-07-23 21:15:05 --> Utf8 Class Initialized
+INFO - 2016-07-23 21:15:05 --> URI Class Initialized
+DEBUG - 2016-07-23 21:15:05 --> No URI present. Default controller set.
+INFO - 2016-07-23 21:15:05 --> Router Class Initialized
+INFO - 2016-07-23 21:15:05 --> Output Class Initialized
+INFO - 2016-07-23 21:15:05 --> Security Class Initialized
+DEBUG - 2016-07-23 21:15:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-23 21:15:05 --> Input Class Initialized
+INFO - 2016-07-23 21:15:05 --> Language Class Initialized
+INFO - 2016-07-23 21:15:05 --> Loader Class Initialized
+INFO - 2016-07-23 21:15:05 --> Controller Class Initialized
+DEBUG - 2016-07-23 21:15:05 --> Config file loaded: D:\xampp\htdocs\ProyectoDiccionario\application\config/diccionario.php
+INFO - 2016-07-23 21:15:05 --> Helper loaded: form_helper
+INFO - 2016-07-23 21:15:05 --> Form Validation Class Initialized
+INFO - 2016-07-23 21:15:05 --> Helper loaded: url_helper
+INFO - 2016-07-23 21:15:05 --> Helper loaded: file_helper
+INFO - 2016-07-23 21:15:05 --> Helper loaded: security_helper
+INFO - 2016-07-23 21:15:05 --> Database Driver Class Initialized
+INFO - 2016-07-23 21:15:05 --> Database Utility Class Initialized
+ERROR - 2016-07-23 21:15:05 --> Language file contains no data: language/spanish/diccionario_message_lang.php
+INFO - 2016-07-23 21:15:05 --> File loaded: D:\xampp\htdocs\ProyectoDiccionario\application\views\system/head.php
+INFO - 2016-07-23 21:15:05 --> File loaded: D:\xampp\htdocs\ProyectoDiccionario\application\views\system/navbar.php
+INFO - 2016-07-23 21:15:05 --> File loaded: D:\xampp\htdocs\ProyectoDiccionario\application\views\administracion/panel.php
+INFO - 2016-07-23 21:15:05 --> File loaded: D:\xampp\htdocs\ProyectoDiccionario\application\views\system/footer.php
+INFO - 2016-07-23 21:15:05 --> File loaded: D:\xampp\htdocs\ProyectoDiccionario\application\views\system/layout.php
+INFO - 2016-07-23 21:15:05 --> Final output sent to browser
+DEBUG - 2016-07-23 21:15:05 --> Total execution time: 0.1630
+>>>>>>> d9512c5f3c99552cbc90669fd82b523c9d1be240
